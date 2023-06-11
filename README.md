@@ -60,7 +60,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/anchor-tags) - This shows an HTML site structure. I really liked this pattern and will use it going forward.
+- [Example resource 1](https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/anchor-tags) - The diagram illustrates the different parts of the anchor element syntax. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.codecademy.com/learn) - This is an amazing resource which helped me finally understand website design. I'd recommend it to anyone still learning this concept.
 
 
