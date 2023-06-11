@@ -60,8 +60,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1](https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/anchor-tags) - This shows an HTML site structure. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.codecademy.com/learn) - This is an amazing resource which helped me finally understand website design. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
@@ -70,7 +70,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/gladstone28)
 - Twitter - [@yourusername](https://www.twitter.com/gladdyus)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
