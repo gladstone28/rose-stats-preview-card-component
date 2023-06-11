@@ -1,0 +1,121 @@
+.stats-card-component {
+  height: 780px;
+  width: 327px;
+  background-color: rgb(28 26 56);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* STATS CARD IMAGE */
+.stats-card-image {
+  position: relative;
+  height: 240px;
+  width: 100%;
+}
+
+.image-color-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #5f08918c;
+}
+
+.stats-card-image img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* STATS CARD INFO */
+.stats-card-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 540px;
+  width: 100%;
+  text-align: center;
+}
+
+.stats-card-slogan {
+  width: 260px;
+  font: 700 28px Inter, sans-serif;
+  line-height: 1.15;
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+
+.stats-card-slogan span {
+  color: #aa5cdb;
+}
+
+.stats-card-description {
+  width: 270px;
+  color: #ffffffbf;
+  line-height: 1.67;
+  margin-bottom: 40px;
+}
+
+/* STATS CARD INFO -> Stats Card Stats */
+.stats-card-stat {
+  margin-bottom: 29px;
+}
+
+.stats-number {
+  font: 700 24px Inter, sans-serif;
+  margin-bottom: 7px;
+}
+
+.stats-name {
+  color: #fff9;
+  font: 400 12px "Lexend Deca", sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+/* RESPONSIVE DESIGN */
+@media all and (min-width: 1250px) {
+  .stats-card-component {
+    display: flex;
+    height: 446px;
+    width: 1110px;
+  }
+
+  .stats-card-image {
+    height: 100%;
+    width: 540px;
+    order: 1;
+  }
+
+  .stats-card-info {
+    height: 100%;
+    width: 570px;
+    align-items: normal;
+    text-align: initial;
+    padding-left: 73px;
+  }
+
+  .stats-card-slogan {
+    width: 450px;
+    font: 700 35px Inter, sans-serif;
+    line-height: 1.25;
+    margin-top: 72px;
+    margin-bottom: 25px;
+  }
+
+  .stats-card-slogan span {
+    margin-right: 6px;
+  }
+
+  .stats-card-description {
+    width: 350px;
+    margin-bottom: 72px;
+  }
+
+  .stats-card-stats {
+    display: flex;
+    gap: 63px;
+  }
+}
